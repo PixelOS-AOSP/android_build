@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "59208516_2ff02ba9",
+        "filename": "envsetup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 590,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-08-30T10:48:21Z",
+      "side": 1,
+      "message": "PixelOS",
+      "range": {
+        "startLine": 590,
+        "startChar": 61,
+        "endLine": 590,
+        "endChar": 70
+      },
+      "revId": "06eeb897bf216b813755963cb6a76a36ba7ac84e",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
