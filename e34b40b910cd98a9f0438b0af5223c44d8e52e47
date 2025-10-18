@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21af6976_7b128adb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000028
+      },
+      "writtenOn": "2025-10-18T09:23:40Z",
+      "side": 1,
+      "message": "What about devices with encryption",
+      "revId": "e34b40b910cd98a9f0438b0af5223c44d8e52e47",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
