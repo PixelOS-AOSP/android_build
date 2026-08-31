@@ -86,6 +86,24 @@
       "message": "@adarshgrewal@gmail.com how come AOSP sounds were included for me after https://github.com/majaahh/android_device_samsung_sm7325-common/commit/fde45552901eed7aeea234ef3fc31a94aff2bd9b then. Check full_base.mk because the same exact logic is used there. After this revert, pixel ones were included.",
       "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "40637d01_68aa4b6b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000019
+      },
+      "writtenOn": "2026-08-31T17:16:05Z",
+      "side": 1,
+      "message": "coz you are including those makefiles before our custom/lineage ones, you included the makefiles before the vraibles are set?",
+      "parentUuid": "31f1c501_c832a5b6",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
