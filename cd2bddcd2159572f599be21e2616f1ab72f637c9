@@ -52,6 +52,23 @@
       "parentUuid": "b8cf6481_93303d32",
       "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d82a3af3_74df0b8b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000019
+      },
+      "writtenOn": "2026-08-31T17:13:02Z",
+      "side": 1,
+      "message": "* if LINEAGE_BUILD is true, then it should include aosp sounds",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
