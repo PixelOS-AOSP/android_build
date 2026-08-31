@@ -104,6 +104,24 @@
       "parentUuid": "31f1c501_c832a5b6",
       "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3a24f450_0d770869",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000028
+      },
+      "writtenOn": "2026-08-31T17:20:56Z",
+      "side": 1,
+      "message": "So? Again, like I said, check full_base.mk https://github.com/PixelOS-AOSP/android_build/blob/seventeen/target/product/full_base.mk#L48. The same exact logic is used there and some devices (if not every) do the same. First inherit AOSP stuff then vendor/custom. Example: https://github.com/PixelOS-Devices/android_device_xiaomi_gauguin/blob/sixteen-qpr2/custom_gauguin.mk#L15. FYI gauguin is including \"full_base_telephony.mk\" which leads to \"full_base.mk\" (where that issue is non existent due to correct logic) instead of \"aosp_product.mk\".",
+      "parentUuid": "40637d01_68aa4b6b",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
