@@ -16,6 +16,24 @@
       "message": "It should be a fixup! commit instead.",
       "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "68f54aa2_ee22593f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-08-31T16:58:37Z",
+      "side": 1,
+      "message": "I\u0027m blind.",
+      "parentUuid": "b8cf6481_93303d32",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
