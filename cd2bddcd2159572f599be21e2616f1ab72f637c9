@@ -157,6 +157,23 @@
       "message": "Why was this abandoned? @adarshgrewal@gmail.com is obviously wrong.",
       "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1a17bc96_ff384a4c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000190
+      },
+      "writtenOn": "2026-09-07T22:40:42Z",
+      "side": 1,
+      "message": "ifeq ($(LINEAGE_BUILD),)\n\nThis line means \"if LINEAGE_BUILD is false\", hence it will include AOSP sounds, as PixelOS uses CUSTOM_BUILD instead.",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
