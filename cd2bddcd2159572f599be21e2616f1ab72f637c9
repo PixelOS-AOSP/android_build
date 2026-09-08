@@ -192,6 +192,42 @@
       "parentUuid": "707151f7_ae6c01bb",
       "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc68a4ea_89695caa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000028
+      },
+      "writtenOn": "2026-09-08T14:16:09Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "1a17bc96_ff384a4c",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e88574c0_f8ccca13",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000028
+      },
+      "writtenOn": "2026-09-08T14:16:09Z",
+      "side": 1,
+      "message": "Done. I didn\u0027t find it necessary to modify the commit message, because it\u0027s just a revert but I did adjust the description.",
+      "parentUuid": "8d20a4ab_4ae0e1ed",
+      "revId": "cd2bddcd2159572f599be21e2616f1ab72f637c9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ],
   "submitRequirementResults": [
