@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "69c2f36a_ef93ee84",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000190
+      },
+      "writtenOn": "2026-09-08T14:24:19Z",
+      "side": 1,
+      "message": "```suggestion\n\n* Reason for revert: The reverted commit does the opposite of what it\u0027s supposed to do.\n```",
+      "revId": "ac9a782ca15264acb9e249e1cfe38dbed11bda93",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
