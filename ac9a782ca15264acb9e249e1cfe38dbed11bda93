@@ -16,6 +16,24 @@
       "message": "```suggestion\n\n* Reason for revert: The reverted commit does the opposite of what it\u0027s supposed to do.\n```",
       "revId": "ac9a782ca15264acb9e249e1cfe38dbed11bda93",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff9234d1_784cc28c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000028
+      },
+      "writtenOn": "2026-09-08T14:58:15Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "69c2f36a_ef93ee84",
+      "revId": "ac9a782ca15264acb9e249e1cfe38dbed11bda93",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
