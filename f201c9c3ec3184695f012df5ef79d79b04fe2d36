@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4060470c_53986778",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000190
+      },
+      "writtenOn": "2026-09-20T18:46:40Z",
+      "side": 1,
+      "message": "@me@hridaya.dev Hi, any update on this?",
+      "revId": "f201c9c3ec3184695f012df5ef79d79b04fe2d36",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
